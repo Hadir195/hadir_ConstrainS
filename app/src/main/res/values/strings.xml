@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hadir_Constrain</string>
+    <string name="smk_negeri_1_sayung">SMK NEGERI 1 SAYUNG</string>
+    <string name="teacher_profile_app">TEACHER PROFILE APP</string>
+    <string name="nama_hadir_sastra_imam">NAMA:HADIR SASTRA IMAM</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="textview">TextView</string>
+    <string name="NIS">TextView</string>
+</resources>
